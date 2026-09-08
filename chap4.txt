@@ -1,3 +1,3 @@
-Cette ligne a été modifiée pour créer un conflit de fusion!!!!!
+Dans ce chapitre, je parlerai des différents résutats obtenus suite à la phase de programmation
 Il a été créé pour prouver que pour le moment ce que le master possède 
 les autres branches créées précédemment ne l'ont pas !!!
