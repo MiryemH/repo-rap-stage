@@ -1,3 +1,3 @@
-C'est un fihier se trouvant sur master
+Dans ce chapitre je présenterai les différents résultats des méthodes implémentées.
 Il a été créé pour prouver que pour le moment ce que le master possède 
 les autres branches créées précédemment ne l'ont pas !!!
